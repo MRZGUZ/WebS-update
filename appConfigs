@@ -1,0 +1,9 @@
+{
+  "Notice": "软件公告：更新Bug，解决稳定",
+  "updataDescription": "-布局设计bug修复\n-符号栏调整\n-添加一些补全\n-新项目默认展开一级文件\n-优化调试栏关闭细节\n-取消颜色添加后的光标选中\n-更新错误弹窗提示关闭",
+  "versionName": "1.1.5",
+  "versionId": "6",
+  "cancelable": false,
+  "downloadUrl": "http://websapp.top/APP/WebS_1.1.5.apk",
+  "qqGroup": "695309277"
+}
